@@ -145,7 +145,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:#40c4ff;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -161,12 +161,12 @@ color: #fff;
 }
 .link:hover {
 	text-decoration:none;
-	color:#7cc576 !important;
+	color:#40c4ff !important;
 	background:#fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background: #40c4ff;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -205,7 +205,7 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	color: #40c4ff;
 }
 
 .small-logo{ 
@@ -292,7 +292,7 @@ color: #fff;
 .Learn-More{
 	display:inline-block;
 	padding:0 5px 0 0;
-	color:#7cc576;
+	color:#40c4ff;
 	font-size:16px;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -341,7 +341,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#40c4ff;
 	color:#fff;
 	text-decoration:none;
 }
@@ -372,7 +372,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#40c4ff;
 	color:#fff;
 	text-decoration:none;
 }
@@ -446,13 +446,13 @@ img {
 	width:68px;
 	height:68px;
 	margin:0 auto;
-	border:2px solid #7cc576;
+	border:2px solid #40c4ff;
 	border-radius:50%;
 	display:block;
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:#40c4ff;
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -465,7 +465,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	background:#40c4ff;
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -704,7 +704,7 @@ border: 2px solid #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .input-text:focus {
-	border: 1px solid #7cc576;
+	border: 1px solid #40c4ff;
 	outline:0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);	
@@ -719,7 +719,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#40c4ff;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -746,8 +746,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: #40c4ff;
+    border:1px solid #40c4ff;
     display:none;
     text-align:center;
     padding:15px;
@@ -787,7 +787,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:#40c4ff;
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
@@ -816,7 +816,7 @@ border: 2px solid #fff;
 }
 
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
-	color: #7cc576 !important;
+	color: #40c4ff !important;
 }
 
 .portfolioContainer{
