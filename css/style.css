@@ -191,7 +191,7 @@ color: #fff;
 	margin:0 1px;
 }
 .main-nav li a{
-	display:inline-block;
+	display:inline;
 	color:#222222;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
