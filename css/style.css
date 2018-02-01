@@ -101,8 +101,6 @@ p{
 	background:url(../img/citybackground5.jpg) left top no-repeat;
 	padding:280px 0;
 }
-@media only screen and (max-width:500px){.header{background:url(../img/computer.jpg) left top no-repeat;');}}
-
 .logo{
 	width:400px;
 	margin:0 auto 35px;
