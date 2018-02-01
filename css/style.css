@@ -432,6 +432,7 @@ img {
 .client li a img{
 	margin-bottom:15px;
 	border-radius:50%;
+	max-width: 90px;
 }
 .client li a:hover{
 	text-decoration:none;
