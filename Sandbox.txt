@@ -1,0 +1,15 @@
+<div class="team-leader-box">
+					<div class="team-leader  wow fadeInDown delay-06s">
+						<div class="team-leader-shadow"><a href="#"></a></div>
+						<img src="img/katherine.mcnabb.jpg" alt="">
+						<ul>
+							<li><a href="https://twitter.com/katmcnabb" target="_blank" class="fa-twitter"></a></li>
+							<li><a href="https://www.facebook.com/katherine.mcnabb.9" target="_blank" class="fa-facebook"></a></li>
+							<li><a href="https://www.linkedin.com/in/katherine-mcnabb-b6a0aa23/" target="_blank" class="fa-linkedin"></a></li>
+							<li><a href="mailto:info@knoxsocialmedia.com" target="_blank" class="fa-envelope"></a></li>
+						</ul>
+					</div>
+					<h3 class="wow fadeInDown delay-06s">Katherine McNabb</h3>
+					<span class="wow fadeInDown delay-06s">Operations &amp Sales Manager</span>
+					<p class="wow fadeInDown delay-06s"></p>
+				</div>
